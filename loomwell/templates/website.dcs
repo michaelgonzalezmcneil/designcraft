@@ -1,0 +1,167 @@
+# Original Loomwell layout. No customer data.
+file.new {"width":1600,"height":900,"pages":1,"facingPages":false,"margins":0,"intent":"web","title":"Loomwell website template"}
+swatch.create {"name":"Loomwell Forest","color":"#182822"}
+swatch.create {"name":"Loomwell Paper","color":"#f5f2e9"}
+swatch.create {"name":"Loomwell Sage","color":"#d5e5b3"}
+swatch.create {"name":"Loomwell Terracotta","color":"#b86e4d"}
+frame.create {"rect":[0,0,1600,900],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Paper","ids":["$5.id"]}
+object.stroke {"swatch":"[None]","ids":["$5.id"]}
+frame.create {"rect":[72,48,872,118],"content":"text","text":"loomwell","caret":false}
+object.fill {"swatch":"[None]","ids":["$8.id"]}
+object.stroke {"swatch":"[None]","ids":["$8.id"]}
+selection.set {"ids":["$8.id"]}
+type.char {"attrs":{"fontFamily":"Source Serif 4","size":38,"fill":"Loomwell Forest","leading":{"kind":"points","value":44.839999999999996}}}
+frame.create {"rect":[72,158,872,188],"content":"text","text":"ECOMMERCE AGENT EXPERIENCE","caret":false}
+object.fill {"swatch":"[None]","ids":["$13.id"]}
+object.stroke {"swatch":"[None]","ids":["$13.id"]}
+selection.set {"ids":["$13.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":14,"fill":"Loomwell Forest","leading":{"kind":"points","value":16.52}}}
+frame.create {"rect":[66,220,956,480],"content":"text","text":"Useful experience,\nwoven together.","caret":false}
+object.fill {"swatch":"[None]","ids":["$18.id"]}
+object.stroke {"swatch":"[None]","ids":["$18.id"]}
+selection.set {"ids":["$18.id"]}
+type.char {"attrs":{"fontFamily":"Source Serif 4","size":90,"fill":"Loomwell Forest","leading":{"kind":"points","value":106.19999999999999}}}
+frame.create {"rect":[72,525,862,640],"content":"text","text":"Reviewed ecommerce agent traces for AI evaluation and training.","caret":false}
+object.fill {"swatch":"[None]","ids":["$23.id"]}
+object.stroke {"swatch":"[None]","ids":["$23.id"]}
+selection.set {"ids":["$23.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":27,"fill":"Loomwell Forest","leading":{"kind":"points","value":31.86}}}
+frame.create {"rect":[72,681,357,747],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$28.id"]}
+object.stroke {"swatch":"[None]","ids":["$28.id"]}
+frame.create {"rect":[98,697,338,739],"content":"text","text":"Explore the pilot","caret":false}
+object.fill {"swatch":"[None]","ids":["$31.id"]}
+object.stroke {"swatch":"[None]","ids":["$31.id"]}
+selection.set {"ids":["$31.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":22,"fill":"Loomwell Paper","leading":{"kind":"points","value":25.959999999999997}}}
+frame.create {"rect":[1020,235,1053.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$36.id"]}
+object.stroke {"swatch":"[None]","ids":["$36.id"]}
+frame.create {"rect":[1074,235,1107.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$39.id"]}
+object.stroke {"swatch":"[None]","ids":["$39.id"]}
+frame.create {"rect":[1128,235,1161.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$42.id"]}
+object.stroke {"swatch":"[None]","ids":["$42.id"]}
+frame.create {"rect":[1182,235,1215.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$45.id"]}
+object.stroke {"swatch":"[None]","ids":["$45.id"]}
+frame.create {"rect":[1236,235,1269.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$48.id"]}
+object.stroke {"swatch":"[None]","ids":["$48.id"]}
+frame.create {"rect":[1290,235,1323.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$51.id"]}
+object.stroke {"swatch":"[None]","ids":["$51.id"]}
+frame.create {"rect":[1344,235,1377.48,613],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$54.id"]}
+object.stroke {"swatch":"[None]","ids":["$54.id"]}
+frame.create {"rect":[1020,235,1398,268.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$57.id"]}
+object.stroke {"swatch":"[None]","ids":["$57.id"]}
+frame.create {"rect":[1020,289,1398,322.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$60.id"]}
+object.stroke {"swatch":"[None]","ids":["$60.id"]}
+frame.create {"rect":[1020,343,1398,376.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$63.id"]}
+object.stroke {"swatch":"[None]","ids":["$63.id"]}
+frame.create {"rect":[1020,397,1398,430.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Terracotta","ids":["$66.id"]}
+object.stroke {"swatch":"[None]","ids":["$66.id"]}
+frame.create {"rect":[1020,451,1398,484.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$69.id"]}
+object.stroke {"swatch":"[None]","ids":["$69.id"]}
+frame.create {"rect":[1020,505,1398,538.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$72.id"]}
+object.stroke {"swatch":"[None]","ids":["$72.id"]}
+frame.create {"rect":[1020,559,1398,592.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$75.id"]}
+object.stroke {"swatch":"[None]","ids":["$75.id"]}
+frame.create {"rect":[1020,235,1053.48,268.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$78.id"]}
+object.stroke {"swatch":"[None]","ids":["$78.id"]}
+frame.create {"rect":[1020,343,1053.48,376.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$81.id"]}
+object.stroke {"swatch":"[None]","ids":["$81.id"]}
+frame.create {"rect":[1020,451,1053.48,484.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$84.id"]}
+object.stroke {"swatch":"[None]","ids":["$84.id"]}
+frame.create {"rect":[1020,559,1053.48,592.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$87.id"]}
+object.stroke {"swatch":"[None]","ids":["$87.id"]}
+frame.create {"rect":[1074,289,1107.48,322.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$90.id"]}
+object.stroke {"swatch":"[None]","ids":["$90.id"]}
+frame.create {"rect":[1074,397,1107.48,430.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$93.id"]}
+object.stroke {"swatch":"[None]","ids":["$93.id"]}
+frame.create {"rect":[1074,505,1107.48,538.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$96.id"]}
+object.stroke {"swatch":"[None]","ids":["$96.id"]}
+frame.create {"rect":[1128,235,1161.48,268.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$99.id"]}
+object.stroke {"swatch":"[None]","ids":["$99.id"]}
+frame.create {"rect":[1128,343,1161.48,376.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$102.id"]}
+object.stroke {"swatch":"[None]","ids":["$102.id"]}
+frame.create {"rect":[1128,451,1161.48,484.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$105.id"]}
+object.stroke {"swatch":"[None]","ids":["$105.id"]}
+frame.create {"rect":[1128,559,1161.48,592.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$108.id"]}
+object.stroke {"swatch":"[None]","ids":["$108.id"]}
+frame.create {"rect":[1182,289,1215.48,322.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$111.id"]}
+object.stroke {"swatch":"[None]","ids":["$111.id"]}
+frame.create {"rect":[1182,397,1215.48,430.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$114.id"]}
+object.stroke {"swatch":"[None]","ids":["$114.id"]}
+frame.create {"rect":[1182,505,1215.48,538.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$117.id"]}
+object.stroke {"swatch":"[None]","ids":["$117.id"]}
+frame.create {"rect":[1236,235,1269.48,268.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$120.id"]}
+object.stroke {"swatch":"[None]","ids":["$120.id"]}
+frame.create {"rect":[1236,343,1269.48,376.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$123.id"]}
+object.stroke {"swatch":"[None]","ids":["$123.id"]}
+frame.create {"rect":[1236,451,1269.48,484.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$126.id"]}
+object.stroke {"swatch":"[None]","ids":["$126.id"]}
+frame.create {"rect":[1236,559,1269.48,592.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$129.id"]}
+object.stroke {"swatch":"[None]","ids":["$129.id"]}
+frame.create {"rect":[1290,289,1323.48,322.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$132.id"]}
+object.stroke {"swatch":"[None]","ids":["$132.id"]}
+frame.create {"rect":[1290,397,1323.48,430.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$135.id"]}
+object.stroke {"swatch":"[None]","ids":["$135.id"]}
+frame.create {"rect":[1290,505,1323.48,538.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$138.id"]}
+object.stroke {"swatch":"[None]","ids":["$138.id"]}
+frame.create {"rect":[1344,235,1377.48,268.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$141.id"]}
+object.stroke {"swatch":"[None]","ids":["$141.id"]}
+frame.create {"rect":[1344,343,1377.48,376.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$144.id"]}
+object.stroke {"swatch":"[None]","ids":["$144.id"]}
+frame.create {"rect":[1344,451,1377.48,484.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$147.id"]}
+object.stroke {"swatch":"[None]","ids":["$147.id"]}
+frame.create {"rect":[1344,559,1377.48,592.48],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$150.id"]}
+object.stroke {"swatch":"[None]","ids":["$150.id"]}
+frame.create {"rect":[1015,660,1525,700],"content":"text","text":"CONTEXT / CORRECTION / OUTCOME","caret":false}
+object.fill {"swatch":"[None]","ids":["$153.id"]}
+object.stroke {"swatch":"[None]","ids":["$153.id"]}
+selection.set {"ids":["$153.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}
+frame.create {"rect":[72,804,1528,805],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Forest","ids":["$158.id"]}
+object.stroke {"swatch":"[None]","ids":["$158.id"]}
+frame.create {"rect":[72,830,1528,868],"content":"text","text":"EARLY PILOT / SCOPED WITH YOUR TEAM","caret":false}
+object.fill {"swatch":"[None]","ids":["$161.id"]}
+object.stroke {"swatch":"[None]","ids":["$161.id"]}
+selection.set {"ids":["$161.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}

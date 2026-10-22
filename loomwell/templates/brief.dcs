@@ -1,0 +1,86 @@
+# Original Loomwell layout. No customer data.
+file.new {"width":612,"height":792,"pages":1,"facingPages":false,"margins":0,"intent":"web","title":"Loomwell brief template"}
+swatch.create {"name":"Loomwell Forest","color":"#182822"}
+swatch.create {"name":"Loomwell Paper","color":"#f5f2e9"}
+swatch.create {"name":"Loomwell Sage","color":"#d5e5b3"}
+swatch.create {"name":"Loomwell Terracotta","color":"#b86e4d"}
+frame.create {"rect":[0,0,612,792],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Paper","ids":["$5.id"]}
+object.stroke {"swatch":"[None]","ids":["$5.id"]}
+frame.create {"rect":[44,30,568,80],"content":"text","text":"loomwell","caret":false}
+object.fill {"swatch":"[None]","ids":["$8.id"]}
+object.stroke {"swatch":"[None]","ids":["$8.id"]}
+selection.set {"ids":["$8.id"]}
+type.char {"attrs":{"fontFamily":"Source Serif 4","size":28,"fill":"Loomwell Forest","leading":{"kind":"points","value":33.04}}}
+frame.create {"rect":[44,91,568,117],"content":"text","text":"WEBSITE / CREATIVE BRIEF","caret":false}
+object.fill {"swatch":"[None]","ids":["$13.id"]}
+object.stroke {"swatch":"[None]","ids":["$13.id"]}
+selection.set {"ids":["$13.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[42,134,572,234],"content":"text","text":"Design the next useful experience.","caret":false}
+object.fill {"swatch":"[None]","ids":["$18.id"]}
+object.stroke {"swatch":"[None]","ids":["$18.id"]}
+selection.set {"ids":["$18.id"]}
+type.char {"attrs":{"fontFamily":"Source Serif 4","size":34,"fill":"Loomwell Forest","leading":{"kind":"points","value":40.12}}}
+frame.create {"rect":[44,247,568,248],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$23.id"]}
+object.stroke {"swatch":"[None]","ids":["$23.id"]}
+frame.create {"rect":[44,255,568,278],"content":"text","text":"01 / AUDIENCE","caret":false}
+object.fill {"swatch":"[None]","ids":["$26.id"]}
+object.stroke {"swatch":"[None]","ids":["$26.id"]}
+selection.set {"ids":["$26.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[44,283,568,346],"content":"text","text":"Teams building ecommerce agents for returns, exchanges, refunds and order problems.","caret":false}
+object.fill {"swatch":"[None]","ids":["$31.id"]}
+object.stroke {"swatch":"[None]","ids":["$31.id"]}
+selection.set {"ids":["$31.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}
+frame.create {"rect":[44,350,568,351],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$36.id"]}
+object.stroke {"swatch":"[None]","ids":["$36.id"]}
+frame.create {"rect":[44,358,568,381],"content":"text","text":"02 / PRIMARY GOAL","caret":false}
+object.fill {"swatch":"[None]","ids":["$39.id"]}
+object.stroke {"swatch":"[None]","ids":["$39.id"]}
+selection.set {"ids":["$39.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[44,386,568,449],"content":"text","text":"Help a prospective buyer inspect the format and identify a specific gap in its own cases.","caret":false}
+object.fill {"swatch":"[None]","ids":["$44.id"]}
+object.stroke {"swatch":"[None]","ids":["$44.id"]}
+selection.set {"ids":["$44.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}
+frame.create {"rect":[44,453,568,454],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$49.id"]}
+object.stroke {"swatch":"[None]","ids":["$49.id"]}
+frame.create {"rect":[44,461,568,484],"content":"text","text":"03 / REQUIRED ASSETS","caret":false}
+object.fill {"swatch":"[None]","ids":["$52.id"]}
+object.stroke {"swatch":"[None]","ids":["$52.id"]}
+selection.set {"ids":["$52.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[44,489,568,552],"content":"text","text":"Website hero, landscape social card, square social card and an editable creative brief.","caret":false}
+object.fill {"swatch":"[None]","ids":["$57.id"]}
+object.stroke {"swatch":"[None]","ids":["$57.id"]}
+selection.set {"ids":["$57.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}
+frame.create {"rect":[44,556,568,557],"content":"unassigned"}
+object.fill {"swatch":"Loomwell Sage","ids":["$62.id"]}
+object.stroke {"swatch":"[None]","ids":["$62.id"]}
+frame.create {"rect":[44,564,568,587],"content":"text","text":"04 / EVIDENCE AND SCOPE","caret":false}
+object.fill {"swatch":"[None]","ids":["$65.id"]}
+object.stroke {"swatch":"[None]","ids":["$65.id"]}
+selection.set {"ids":["$65.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[44,592,568,655],"content":"text","text":"Use fictional examples with visible labels. Scope availability and acceptance criteria with the team.","caret":false}
+object.fill {"swatch":"[None]","ids":["$70.id"]}
+object.stroke {"swatch":"[None]","ids":["$70.id"]}
+selection.set {"ids":["$70.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":13,"fill":"Loomwell Forest","leading":{"kind":"points","value":15.34}}}
+frame.create {"rect":[44,690,568,740],"content":"text","text":"No customer logos, guaranteed earnings or measured training improvement without evidence.","caret":false}
+object.fill {"swatch":"[None]","ids":["$75.id"]}
+object.stroke {"swatch":"[None]","ids":["$75.id"]}
+selection.set {"ids":["$75.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":10,"fill":"Loomwell Forest","leading":{"kind":"points","value":11.799999999999999}}}
+frame.create {"rect":[44,755,568,776],"content":"text","text":"WORKING TEMPLATE / CONTENT TO REVIEW BEFORE PUBLICATION","caret":false}
+object.fill {"swatch":"[None]","ids":["$80.id"]}
+object.stroke {"swatch":"[None]","ids":["$80.id"]}
+selection.set {"ids":["$80.id"]}
+type.char {"attrs":{"fontFamily":"Source Sans 3","size":8,"fill":"Loomwell Forest","leading":{"kind":"points","value":9.44}}}

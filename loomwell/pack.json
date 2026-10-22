@@ -1,0 +1,13 @@
+{
+  "tool": "designcraft",
+  "name": "Loomwell layout workflow",
+  "templates": {
+    "website": {"width":1600,"height":900,"purpose":"Website hero graphic"},
+    "social": {"width":1200,"height":630,"purpose":"Landscape social and sharing card"},
+    "square": {"width":1080,"height":1080,"purpose":"Square social card"},
+    "brief": {"width":612,"height":792,"purpose":"Letter-size website creative brief"}
+  },
+  "formats": ["dcs", "designcraft", "pdf", "png"],
+  "entrypoint": "python3 loomwell/export.py export all --output /absolute/output/folder",
+  "license": "MIT OR Apache-2.0"
+}

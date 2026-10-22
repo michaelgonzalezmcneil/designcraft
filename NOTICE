@@ -113,3 +113,10 @@ Assets already bundled through Hayro's default features retain their licences:
   non-visual character-mapping data; see licenses/pdf-backend/hayro-cmap/LICENSE.txt.
   Adobe and contributor names do not endorse or promote this product.
 Per-file hashes and sources are recorded in ASSETS.md.
+
+Loomwell workflow pack
+
+The original layouts, color tokens, block-weave artwork and scripts under loomwell/
+were created for Loomwell and are licensed MIT OR Apache-2.0, matching this repository.
+They contain no customer records or copied upstream brand artwork. DesignCraft and
+ArtCraft are credited as the upstream tool/project, without implying endorsement.
